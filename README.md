@@ -1,8 +1,6 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hkaraduman22/hkaraduman22/aef94524e806760d81bb7b6a2feff5dc313cc7e5/githubimage.gif" width="400">
+  <img src="https://raw.githubusercontent.com/hkaraduman22/hkaraduman22/main/githubimage.gif" width="400">
 </p>
-
 
 # 👋 Hi, I'm Tarık
 
