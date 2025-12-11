@@ -1,3 +1,7 @@
+
+
+![githubimage](https://github.com/user-attachments/assets/a6129789-9cd3-4922-8b6f-67fdff4604b5)
+
 # 👋 Hi, I'm Tarık
 
 🎓 I am a **Computer Engineering student at Pamukkale University**.  
