@@ -40,8 +40,9 @@
 
 ## 📬 Contact Me
 
+<a href="karadumanhakan2882@gmail.com">
 <p align="left">
-  <a href="karadumanhakan2882@gmail.com">
+   
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
