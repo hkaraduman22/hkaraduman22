@@ -30,6 +30,12 @@
 ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🧰 Tools & Technologies
+<p align="center">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="120" />
+</p>
+
+
 ---
 
 ## 📬 Contact Me
