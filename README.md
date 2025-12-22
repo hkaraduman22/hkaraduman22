@@ -40,11 +40,13 @@
 
 ## 📬 Contact Me
 
-<a href="karadumanhakan2882@gmail.com">
+ 
 <p align="left">
-   
+  <a href="mailto:karadumanhakan2882@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
 
   <a href="https://www.linkedin.com/in/hakan-tar%C4%B1k-k-4359352bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
