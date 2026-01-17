@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Tarık
 
 🎓 I am a **Computer Engineering student at Pamukkale University**.  
-💻 I am mainly interested in **Web Development**,  
+💻 I am mainly interested in **Backend Web Development**,  
 🤖 and I am also actively improving myself in **Artificial Intelligence and Machine Learning**.
 
 ---
